@@ -1,6 +1,6 @@
 # Password Generator
 
-This is a simple **Password Generator** built using **HTML, CSS, and JavaScript**.  
+This is a simple **Password Generator** built using **HTML, CSS and JavaScript**.  
 It allows users to generate secure passwords based on customizable options such as length and character requirements.
 
 The application provides options to include different character types and ensures that the generated password satisfies the selected conditions.
@@ -12,7 +12,7 @@ The application provides options to include different character types and ensure
 - Option to include **uppercase letters**
 - Option to include **numbers**
 - Option to include **symbols**
-- Ability to specify **required letters, numbers, or symbols**
+- Ability to specify **required letters, numbers or symbols**
 - Password **strength indicator**
 - **Copy to clipboard** functionality
 - **Clear button** to reset all inputs
